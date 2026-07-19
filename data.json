@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-19T07:22:19.925164+00:00",
+  "generated_utc": "2026-07-19T07:22:30.165752+00:00",
   "count": 7,
   "kits": [
     {
@@ -22,7 +22,7 @@
       ],
       "category": "characters",
       "asset_id": "97726344212937",
-      "price": "$3.99",
+      "price": "FREE",
       "parts": 5,
       "moderation": "Approved",
       "built_at": "2026-07-17",
@@ -49,12 +49,12 @@
       ],
       "category": "misc",
       "asset_id": "78832363735142",
-      "price": "$5.99",
+      "price": "FREE",
       "parts": 10,
       "moderation": "Approved",
       "built_at": "2026-07-18",
       "store_url": "https://create.roblox.com/store/asset/78832363735142",
-      "store_purchasable": true
+      "store_purchasable": false
     },
     {
       "slug": "horror-npc-character-kit-5-modular-figures",
@@ -76,7 +76,7 @@
       ],
       "category": "characters",
       "asset_id": "126143267291121",
-      "price": "$5.99",
+      "price": "FREE",
       "parts": 5,
       "moderation": "Approved",
       "built_at": "2026-07-17",
