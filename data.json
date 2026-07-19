@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-07-17T09:08:46.285465+00:00",
-  "count": 35,
+  "generated_utc": "2026-07-19T05:42:12.365313+00:00",
+  "count": 36,
   "kits": [
     {
       "slug": "animal-hospital-kit",
@@ -436,10 +436,36 @@
       "category": "cozy",
       "asset_id": "79742280731500",
       "price": "$4.99",
-      "parts": 0,
+      "parts": 6,
       "moderation": "Approved",
       "built_at": "2026-06-16",
       "store_url": "https://create.roblox.com/store/asset/79742280731500"
+    },
+    {
+      "slug": "dark-sovereign-s-throne-room-kit",
+      "title": "Dark Sovereign's Throne Room",
+      "description": "10 separate, named, grid-snappable MeshParts, organized under one Model: grand dark throne, octagonal boss platform with stairs, floor tile variant set, gothic arch wall segment, angled corner wall piece, fluted pillar column, hanging iron brazier, twisted iron floor candelabra, eight arm black iron chandelier, spiked double boss gate. Drop the Model into Studio and snap the pieces together to build your own layout.",
+      "tags": [
+        "boss arena",
+        "throne room",
+        "dark fantasy",
+        "modular",
+        "gothic",
+        "dungeon",
+        "final boss",
+        "medieval",
+        "PBR",
+        "snappable",
+        "interior",
+        "kit"
+      ],
+      "category": "misc",
+      "asset_id": "78832363735142",
+      "price": "FREE",
+      "parts": 10,
+      "moderation": "Approved",
+      "built_at": "2026-07-18",
+      "store_url": "https://create.roblox.com/store/asset/78832363735142"
     },
     {
       "slug": "gardenmascots-kit",
