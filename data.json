@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-19T07:22:17.836406+00:00",
+  "generated_utc": "2026-07-19T07:22:19.798934+00:00",
   "count": 7,
   "kits": [
     {
@@ -22,7 +22,7 @@
       ],
       "category": "characters",
       "asset_id": "97726344212937",
-      "price": "FREE",
+      "price": "$3.99",
       "parts": 5,
       "moderation": "Approved",
       "built_at": "2026-07-17",
@@ -103,7 +103,7 @@
       ],
       "category": "spooky",
       "asset_id": "104661795774622",
-      "price": "$2.99",
+      "price": "FREE",
       "parts": 10,
       "moderation": "Approved",
       "built_at": "2026-06-20",
