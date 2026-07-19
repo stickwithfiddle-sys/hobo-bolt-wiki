@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-19T07:19:58.746475+00:00",
+  "generated_utc": "2026-07-19T07:22:10.421786+00:00",
   "count": 7,
   "kits": [
     {
@@ -130,7 +130,7 @@
       ],
       "category": "sim",
       "asset_id": "71977595733162",
-      "price": "FREE",
+      "price": "$2.99",
       "parts": 10,
       "moderation": "Approved",
       "built_at": "2026-06-25",
@@ -184,7 +184,7 @@
       ],
       "category": "cozy",
       "asset_id": "103169988462307",
-      "price": "FREE",
+      "price": "$2.99",
       "parts": 10,
       "moderation": "Approved",
       "built_at": "2026-06-27",
